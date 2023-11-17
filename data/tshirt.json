@@ -1,0 +1,164 @@
+{
+    "tshirt": [
+        {
+            "id": 1,
+            "nama": "Kaos Merah",
+            "tanggal_order": "2023-10-16",
+            "harga": 100000,
+            "pemesan": "John Doe",
+            "image": "kaos"
+        },
+        {
+            "id": 2,
+            "nama": "Kaos Biru",
+            "tanggal_order": "2023-10-15",
+            "harga": 90000,
+            "pemesan": "Jane Smith",
+            "image": "kaos"
+        },
+        {
+            "id": 3,
+            "nama": "Kaos Hijau",
+            "tanggal_order": "2023-10-14",
+            "harga": 85000,
+            "pemesan": "Michael Johnson",
+            "image": "kaos"
+        },
+        {
+            "id": 4,
+            "nama": "Kaos Kuning",
+            "tanggal_order": "2023-10-13",
+            "harga": 95000,
+            "pemesan": "Emily Davis",
+            "image": "kaos"
+        },
+        {
+            "id": 5,
+            "nama": "Kaos Putih",
+            "tanggal_order": "2023-10-12",
+            "harga": 80000,
+            "pemesan": "Robert Wilson",
+            "image": "kaos"
+        },
+        {
+            "id": 6,
+            "nama": "Kaos Hitam",
+            "tanggal_order": "2023-10-11",
+            "harga": 75000,
+            "pemesan": "Linda Lee",
+            "image": "kaos"
+        },
+        {
+            "id": 7,
+            "nama": "Kaos Ungu",
+            "tanggal_order": "2023-10-10",
+            "harga": 85000,
+            "pemesan": "James Brown",
+            "image": "kaos"
+        },
+        {
+            "id": 8,
+            "nama": "Kaos Oranye",
+            "tanggal_order": "2023-10-09",
+            "harga": 90000,
+            "pemesan": "Sarah Miller",
+            "image": "kaos"
+        },
+        {
+            "id": 9,
+            "nama": "Kaos Pink",
+            "tanggal_order": "2023-10-08",
+            "harga": 95000,
+            "pemesan": "David Wilson",
+            "image": "kaos"
+        },
+        {
+            "id": 10,
+            "nama": "Kaos Abu-abu",
+            "tanggal_order": "2023-10-07",
+            "harga": 85000,
+            "pemesan": "Susan Martin",
+            "image": "kaos"
+        },
+        {
+            "id": 11,
+            "nama": "Kaos Coklat",
+            "tanggal_order": "2023-10-06",
+            "harga": 90000,
+            "pemesan": "Richard Garcia",
+            "image": "kaos"
+        },
+        {
+            "id": 12,
+            "nama": "Kaos Biru Muda",
+            "tanggal_order": "2023-10-05",
+            "harga": 80000,
+            "pemesan": "Patricia Clark",
+            "image": "kaos"
+        },
+        {
+            "id": 13,
+            "nama": "Kaos Abu-abu Tua",
+            "tanggal_order": "2023-10-04",
+            "harga": 75000,
+            "pemesan": "William Hall",
+            "image": "kaos"
+        },
+        {
+            "id": 14,
+            "nama": "Kaos Hitam Polos",
+            "tanggal_order": "2023-10-03",
+            "harga": 85000,
+            "pemesan": "Mary Adams",
+            "image": "kaos"
+        },
+        {
+            "id": 15,
+            "nama": "Kaos Putih Polos",
+            "tanggal_order": "2023-10-02",
+            "harga": 90000,
+            "pemesan": "Daniel Young",
+            "image": "kaos"
+        },
+        {
+            "id": 16,
+            "nama": "Kaos Merah Maroon",
+            "tanggal_order": "2023-10-01",
+            "harga": 95000,
+            "pemesan": "Karen Taylor",
+            "image": "kaos"
+        },
+        {
+            "id": 17,
+            "nama": "Kaos Pink Muda",
+            "tanggal_order": "2023-09-30",
+            "harga": 80000,
+            "pemesan": "Steven Adams",
+            "image": "kaos"
+        },
+        {
+            "id": 18,
+            "nama": "Kaos Hitam Polkadot",
+            "tanggal_order": "2023-09-29",
+            "harga": 75000,
+            "pemesan": "Jessica Moore",
+            "image": "kaos"
+        },
+        {
+            "id": 19,
+            "nama": "Kaos Hijau Army",
+            "tanggal_order": "2023-09-28",
+            "harga": 85000,
+            "pemesan": "Kevin Wilson",
+            "image": "kaos"
+        },
+        {
+            "id": 20,
+            "nama": "Kaos Biru Navy",
+            "tanggal_order": "2023-09-27",
+            "harga": 90000,
+            "pemesan": "Jennifer Harris",
+            "image": "kaos"
+        }
+    ]    
+}
